@@ -8,7 +8,7 @@ export const EVENT_TIME_LABEL = "9:00 AM";
 export const VENUE_NAME = "Dhruvi Fashion & Hosiery";
 export const VENUE_ADDRESS = "1st Floor, Above Shaswat Clinic, Near Bapa Sitaram Chowk, Kamrej, Surat, Gujarat";
 export const WHATSAPP_NUMBER = "918758229947";
-export const MAPS_QUERY = encodeURIComponent("Above Shaswat Clinic, Near Bapa Sitaram Chowk, Kamrej, Surat, Gujarat");
+export const MAPS_QUERY = encodeURIComponent("Bapa Sitaram Chowk, Shashvat Villa, 111, Shashvat Clinic, Kamrej, Gujarat 394185");
 
 export const GALLERY = [
   { src: "/gallery/1.jpeg" },
